@@ -1,0 +1,11 @@
+--2017-04-29 10:30:08--  https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh
+Resolviendo raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.24.133
+Conectando con raw.githubusercontent.com (raw.githubusercontent.com)[151.101.24.133]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 11699 (11K) [text/plain]
+Grabando a: “install.sh”
+
+     0K .......... .                                          100%  820K=0,01s
+
+2017-04-29 10:30:10 (820 KB/s) - “install.sh” guardado [11699/11699]
+
